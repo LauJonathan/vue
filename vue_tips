@@ -12,5 +12,5 @@ vue数据通信两种方式：
 Vue： webpack支持模块化 + webpack打包 + MVVM数据双向绑定 + jslint检查 + CDN
 Vue仅支持ie9以上移动浏览器
 
-bugfix/20170822
+bugfix/20170828
 
